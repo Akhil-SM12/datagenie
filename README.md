@@ -1,6 +1,6 @@
 # datagenie
 
-I have uploaded the following documents- 1 pdf, 1 ppt.
+I have uploaded the following documents- 2 pdfs.
 
 It consists of my approach and visualization results.
 
